@@ -1,13 +1,11 @@
-pandoc: 2.7.3
-pkgdown: 2.0.1
+pandoc: 2.14.2
+pkgdown: 2.0.2
 pkgdown_sha: ~
 articles:
+  column-types: column-types.html
   locales: locales.html
   readr: readr.html
-  readr-0.1.0: releases/readr-0.1.0.html
-  readr-0.2.0: releases/readr-0.2.0.html
-  readr-1.0.0: releases/readr-1.0.0.html
-last_built: 2022-01-11T00:08Z
+last_built: 2022-01-25T21:57Z
 urls:
   reference: https://readr.tidyverse.org/reference
   article: https://readr.tidyverse.org/articles
